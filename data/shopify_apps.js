@@ -1993,5 +1993,13 @@ var SHOPIFY_APPS = [
         website_url: "https://shopthelookapp.com",
         script_pattern: "shopthelook.js",
         category: "Sales"
+    },
+    {
+        name: "Inkybay ‑ Product Customizer",
+        short_description: "Visual product configurator to sell personalized products",
+        app_store_url: "https://apps.shopify.com/productsdesigner",
+        website_url: "https://www.productsdesigner.com",
+        script_pattern: "customizebutton.js",
+        category: "Store Design"
     }
 ];
